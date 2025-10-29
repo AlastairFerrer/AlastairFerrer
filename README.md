@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,bootstrap,jquery,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,bootstrap,git,github,vscode,mysql" />
 </p>
 
 ---
